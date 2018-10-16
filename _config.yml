@@ -4,3 +4,5 @@ description: My website
 
 theme: jekyll-theme-cayman
 markdown: cramdown
+
+permalink: /blog/:year/:month/:day/:title
